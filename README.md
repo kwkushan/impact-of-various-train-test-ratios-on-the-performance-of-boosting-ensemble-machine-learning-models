@@ -1,0 +1,2 @@
+# impact-of-various-train-test-ratios-on-the-performance-of-boosting-ensemble-machine-learning-models
+Codes in this repository was developed as a part of a research done on "Impact of Various Train-Test Ratios on the Performance of Boosting Ensemble Learning Models in Formation Porosity Prediction Using Well Log Data". Three boosting models; adaptive boosting, gradient boosting and extreme gradient boosting were developed as a part of the study.
